@@ -1,0 +1,9 @@
+user=root
+pass=root
+api_key=secretkeyomg
+
+#folder
+temp/
+temp/*
+uploads/
+!uploads/config.txt
